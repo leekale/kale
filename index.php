@@ -1,6 +1,6 @@
 <?php
 
-echo 'memeda';
+echo 'asdfasdfa';
 echo phpinfo();
 
 ?>
